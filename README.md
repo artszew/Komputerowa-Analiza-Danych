@@ -4,8 +4,11 @@ Pierwszy program na podstawie dostarczonych danych przyporządkowuje każdą bad
 - wartość minimalną,
 - wartość maksymalną,
 - średnią arytmetyczną ± odchylenie standardowe,
-- medianę
+- medianę.
 Następnie program rysuje wykresy - słupkowy dla danej pary cech i pudełkowy dla wybranej cechy z podziałem na poszczególne gatunki.
 
-Drugi program na podstawie dostarczonych danych wyznacza równanie regresji liniowej i współczynnik Pearsona dla poszczególnych sześciu par cech.
+
+Drugi program na podstawie dostarczonych danych wyznacza dla wszystkich sześciu par cech (również od podstaw):
+- równanie regresji liniowej,
+- współczynnik Pearsona dla,
 Następnie program rysuje wykresy z danymi (bez podziału na gatunki) i zaznaczoną regresją liniową.
